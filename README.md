@@ -1,4 +1,4 @@
-# ADVANCED ROBLOX SCRIPTER
+# Advanced LuaU Programmer
 
 Hey! I’m **Ujji**.
 
