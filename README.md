@@ -1,8 +1,8 @@
 # Advanced LuaU Programmer
 
-Hey! I’m **Ujji**.
+Hey! I’m **Ujji**,
 
-I’m a trustworthy **Roblox developer and scripter** who builds advanced, polished systems quickly for games that need more than just basic scripting.
+I am a trustworthy programmer/developer who has 4+ years of experience in LuaU and builds advanced, polished systems quickly for games that need more than just basic scripting.
 
 I focus on making systems that are not only functional, but also **smooth and scalable**.
 
@@ -26,7 +26,7 @@ I focus on making systems that are not only functional, but also **smooth and sc
 
 Whether you need a single advanced system or help building out larger parts of your game, I aim to deliver work that feels professional and ready to use.
 
-Take a look through my GitHub portfolio to see what I’ve been working on.
+Here are some examples of my work: 
 
 https://medal.tv/games/roblox-studio/clips/mpsXmqeHLOjaLf7ZF?invite=cr-MSwxbEssNTg3Mzk2NDY1&v=30
 
