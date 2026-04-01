@@ -1,2 +1,29 @@
-# robloxportfolio
-These are all the projects I have worked on or currently scripting on roblox. Feel free to browse
+# ADVANCED ROBLOX SCRIPTER
+
+Hey! I’m **[Your Name]**.
+
+I’m a dedicated **Roblox developer and scripter** who builds advanced, polished systems for games that need more than just basic scripting.
+
+I focus on making systems that are not only functional, but also **smooth, scalable, and built like real game infrastructure**.
+
+## I can help with:
+- Combat systems
+- Ability / skill systems
+- Inventory systems
+- NPCs, bosses, and AI behaviors
+- Data handling and backend logic
+- Progression systems
+- Game mechanics and core frameworks
+- Custom gameplay systems
+- Full game scripting support
+
+## Why work with me?
+- Clean, readable, organized code
+- Serious attention to quality
+- Systems made for future expansion
+- Clear communication throughout development
+- Strong understanding of gameplay flow and player experience
+
+Whether you need a single advanced system or help building out larger parts of your game, I aim to deliver work that feels professional and ready to use.
+
+Take a look through my GitHub portfolio to see what I’ve been working on.
