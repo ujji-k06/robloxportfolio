@@ -1,50 +1,58 @@
-<h1 align="center">Advanced LuaU Programmer</h1>
+# Advanced LuaU Programmer
 
-<p align="center">
-  Hi, I’m <strong>Ujji</strong> — a LuaU programmer with <strong>4+ years of experience</strong> building clean, scalable, and reliable Roblox systems.
-</p>
+Hey, I’m **Ujji** 👋
+
+I’m a LuaU programmer with **4+ years of experience** making Roblox systems that are clean, smooth, and actually fun to use.
 
 ---
 
-## What I do
-
-I help bring gameplay ideas to life with well-structured scripting and systems that are built to last.
+## What I can help with
 
 - Combat systems
-- Ability and skill systems
+- Ability / skill systems
 - Inventory systems
 - NPCs, bosses, and AI behavior
-- Data handling
+- Data handling and saving
 - Progression systems
+- Quests and mission systems
 - Core gameplay mechanics and frameworks
 - Custom gameplay systems
-- Full game scripting support
+- UI systems and interactions
+- Hit detection and attack logic
+- Movement systems
+- Tool / weapon systems
+- Status effects and buffs/debuffs
+- Currency and shop systems
+- Match systems and round systems
+- Cutscenes and scripted events
+- Interactive objects and mechanics
+- Admin systems and moderation tools
+- Bug fixing and system cleanup
+---
+
+## What I care about
+
+- Clean, readable code
+- Systems that are built to grow with your game
+- Good communication
+- Quality over messy shortcuts
+- Making things feel polished and satisfying
 
 ---
 
-## Why work with me
+## Some of my work
 
-- Clean, readable, and organized code
-- Strong focus on quality
-- Systems designed for future expansion
-- Clear communication throughout development
+- **Grappling System**  
+  [Watch it here](https://medal.tv/games/roblox/clips/mvJT1jPLJ9_Znb41F?invite=cr-MSx2aFMsNTg3Mzk2NDY1&v=30)
 
----
+- **Combat System**  
+  [Watch it here](https://medal.tv/games/roblox/clips/msJFJSpWsYeRVeGWf?invite=cr-MSxQMmwsNTg3Mzk2NDY1&v=30)
 
-## Selected work
+- **UI Showcase**  
+  [Watch it here](https://medal.tv/games/roblox/clips/ms1vLHjOWt1FMX-DA?invite=cr-MSxDd2QsNTg3Mzk2NDY1&v=30)
 
-### Grappling System
-[View Clip](https://medal.tv/games/roblox/clips/mvJT1jPLJ9_Znb41F?invite=cr-MSx2aFMsNTg3Mzk2NDY1&v=30)
-
-### Combat System
-[View Clip](https://medal.tv/games/roblox/clips/msJFJSpWsYeRVeGWf?invite=cr-MSxQMmwsNTg3Mzk2NDY1&v=30)
-
-### UI Showcase
-[View Clip](https://medal.tv/games/roblox/clips/ms1vLHjOWt1FMX-DA?invite=cr-MSxDd2QsNTg3Mzk2NDY1&v=30)
-
-### ODM Gear
-[View Clip](https://medal.tv/games/roblox-studio/clips/mpsXmqeHLOjaLf7ZF?invite=cr-MSxUN2QsNTg3Mzk2NDY1&v=30)
+- **ODM Gear**  
+  [Watch it here](https://medal.tv/games/roblox-studio/clips/mpsXmqeHLOjaLf7ZF?invite=cr-MSxUN2QsNTg3Mzk2NDY1&v=30)
 
 ---
-
-## Let’s build something great
+---
