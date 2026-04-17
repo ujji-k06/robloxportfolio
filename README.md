@@ -1,33 +1,50 @@
-# Advanced LuaU Programmer
+<h1 align="center">Advanced LuaU Programmer</h1>
 
-Hey! I’m **Ujji**,
+<p align="center">
+  Hi, I’m <strong>Ujji</strong> — a LuaU programmer with <strong>4+ years of experience</strong> building clean, scalable, and reliable Roblox systems.
+</p>
 
-I am a trustworthy programmer/developer who has 4+ years of experience in LuaU and builds advanced, polished systems quickly for games that need more than just basic scripting.
+---
 
-I focus on making systems that are not only functional, but also **smooth and scalable**.
+## What I do
 
-## I can help with:
+I help bring gameplay ideas to life with well-structured scripting and systems that are built to last.
+
 - Combat systems
-- Ability / skill systems
+- Ability and skill systems
 - Inventory systems
-- NPCs, bosses, and AI behaviors
+- NPCs, bosses, and AI behavior
 - Data handling
 - Progression systems
-- Game mechanics and core frameworks
+- Core gameplay mechanics and frameworks
 - Custom gameplay systems
 - Full game scripting support
 
-## Why work with me?
-- Clean, readable, organized code
-- Serious attention to quality
-- Systems made for future expansion
+---
+
+## Why work with me
+
+- Clean, readable, and organized code
+- Strong focus on quality
+- Systems designed for future expansion
 - Clear communication throughout development
-- Strong understanding of gameplay flow and player experience
 
-Whether you need a single advanced system or help building out larger parts of your game, I aim to deliver work that feels professional and ready to use.
+---
 
-Here are some examples of my work: 
+## Selected work
 
-https://medal.tv/games/roblox-studio/clips/mpsXmqeHLOjaLf7ZF?invite=cr-MSwxbEssNTg3Mzk2NDY1&v=30
+### Grappling System
+[View Clip](https://medal.tv/games/roblox/clips/mvJT1jPLJ9_Znb41F?invite=cr-MSx2aFMsNTg3Mzk2NDY1&v=30)
 
-https://medal.tv/games/roblox/clips/mq2CEb5n3YimAJzrn?invite=cr-MSw1Q0gsNTg3Mzk2NDY1&v=30
+### Combat System
+[View Clip](https://medal.tv/games/roblox/clips/msJFJSpWsYeRVeGWf?invite=cr-MSxQMmwsNTg3Mzk2NDY1&v=30)
+
+### UI Showcase
+[View Clip](https://medal.tv/games/roblox/clips/ms1vLHjOWt1FMX-DA?invite=cr-MSxDd2QsNTg3Mzk2NDY1&v=30)
+
+### ODM Gear
+[View Clip](https://medal.tv/games/roblox-studio/clips/mpsXmqeHLOjaLf7ZF?invite=cr-MSxUN2QsNTg3Mzk2NDY1&v=30)
+
+---
+
+## Let’s build something great
